@@ -13,7 +13,6 @@ target/
 
 # IDE files
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -23,5 +22,5 @@ target/
 Thumbs.db
 
 # Environment files
-.env
-.env.local
+config.bat
+node_modules
